@@ -1,2 +1,3 @@
-# Analysis-of-Phase-III-Superiority-Study-on-Mortality-and-Heart-Failure-Hospitalizations
-A phase III clinical trial was conducted to evaluate the efficacy of a new treatment in reducing mortality and heart failure (HF) hospitalizations compared to a placebo
+A phase III clinical trial was conducted to evaluate the efficacy of a new treatment in reducing mortality and heart failure (HF) hospitalizations compared to a placebo. The study involved 532 participants randomized in a 1:1 ratio, with a follow-up period of 5 years. The primary outcome was time to death or HF hospitalization, while the secondary outcome focused on time to death alone.
+The survival curves for the primary and secondary outcomes were generated using the Kaplan-Meier method. For the primary outcome, the treatment group showed a more gradual decline in survival rates compared to the placebo group, indicating better efficacy in preventing death or HF hospitalizations. By the end of the study, the survival rate was higher in the treatment group compared to the placebo group.
+To further assess the effectiveness of the treatment, Cox regression models were employed for both outcomes.
